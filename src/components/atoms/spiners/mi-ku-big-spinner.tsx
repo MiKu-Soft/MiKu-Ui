@@ -1,3 +1,3 @@
 import {Spinner} from '@chakra-ui/react';
 
-export const MiKuBigSpinner = () => (<Spinner size='md' />);
+export const MiKuBigSpinner = () => (<Spinner />);
